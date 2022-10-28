@@ -1,15 +1,19 @@
 <h1 align="center">👋Welcome to Lucas Gauto github👋</h1>
-<h3 align="center">🛠️A Full-Stack web Developer🛠️</h3>
+<h3 align="center">🛠️ A Full-Stack web Developer 🛠️</h3>
 
 
-# 💫 About Me:
+# 🎆 About Me 🎆:
   I am a person with a great capacity for learning, who loves to work in a team, and is always looking for new challenges and learning.<br>
 
 
-## 📩Contact me📩:
+## 📩Contact me📩
 
+## <img src="./Img/Gmail.png" alt="Gmail image"> lucasenriquez@gmail.com <img src="./Img/Gmail.png" alt="Gmail image">
+## <img src="./Img/Linkedin.png" alt="LinkedIn image"> Lucas Anthony Gauto <img src="./Img/Linkedin.png" alt="LinkedIn image">  
+## <img src="./Img/whatsapp.png" alt="Whatsapp image"> +54 9 11 58877066 <img src="./Img/whatsapp.png" alt="Whatsapp image">
+   <br/>
 
-# 💻Hard Skills💻:
+# 💻 Hard Skills 💻:
 
 |🖼️Front End🖼️|🎨Back End🎨|🗂️Data Base🗂️|🔧Tools🛠️|🖌️UX design🖌️|
 |--------------|-------------|--------------|----------|--------------|
@@ -22,5 +26,6 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=LucasAnthonyGauto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=LucasAnthonyGauto&theme=dark&hide_border=false)<div align="center">![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAnthonyGauto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<div/>
+
+![](https://github-readme-stats.vercel.app/api?username=LucasAnthonyGauto&theme=dark&hide_border=false&include_all_commits=true&count_private=true)![](https://github-readme-streak-stats.herokuapp.com/?user=LucasAnthonyGauto&theme=dark&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAnthonyGauto&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
