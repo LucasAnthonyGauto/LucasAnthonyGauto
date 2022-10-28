@@ -9,9 +9,13 @@
 ## 📩Contact me📩
 
 ## <img src="./Img/Gmail.png" alt="Gmail image"> lucasenriquez@gmail.com <img src="./Img/Gmail.png" alt="Gmail image">
+<<<<<<< HEAD
 
 <a href="https://www.linkedin.com/in/lucas-anthony-gauto/://"><h2><img src="./Img/linkedin.png" alt="linkedIn image"> Lucas Anthony Gauto <img src="./Img/linkedin.png" alt="LinkedIn image"></h2></a>
 
+=======
+## <img src="./Img/linkedin.png" alt="LinkedIn image"> Lucas Anthony Gauto <img src="./Img/linkedin.png" alt="linkedin image">  
+>>>>>>> 3d578604276a459ed64bec6e30bcd1df28c978ae
 ## <img src="./Img/whatsapp.png" alt="Whatsapp image"> +54 9 11 58877066 <img src="./Img/whatsapp.png" alt="Whatsapp image">
    <br/>
 
