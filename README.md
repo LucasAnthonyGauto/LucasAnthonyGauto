@@ -6,13 +6,13 @@
   I am a person with a great capacity for learning, who loves to work in a team, and is always looking for new challenges and learning.<br>
 
 
-## 📩Contact me📩
+# 📩Contact me📩 
 
-## <img src="./Img/Gmail.png" alt="Gmail image"> lucasenriquez@gmail.com <img src="./Img/Gmail.png" alt="Gmail image">
+### <img src="./Img/Gmail.png" alt="Gmail image"> lucasenriquez@gmail.com <img src="./Img/Gmail.png" alt="Gmail image"> ##
 
-<a href="https://www.linkedin.com/in/lucas-anthony-gauto/"><h2><img src="./Img/linkedin.png" alt="linkedIn image"> Lucas Anthony Gauto <img src="./Img/linkedin.png" alt="LinkedIn image"></h2></a>
+### [![](./Img/linkedin.png) Lucas Anthony Gauto ![](./Img/linkedin.png)](https://www.linkedin.com/in/lucas-anthony-gauto/)
 
-## <img src="./Img/whatsapp.png" alt="Whatsapp image"> +54 9 11 58877066 <img src="./Img/whatsapp.png" alt="Whatsapp image">
+### <img src="./Img/whatsapp.png" alt="Whatsapp image"> +54 9 11 58877066 <img src="./Img/whatsapp.png" alt="Whatsapp image">
    <br/>
 
 # 💻 Hard Skills 💻:
