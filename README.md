@@ -9,7 +9,7 @@
 ## 📩Contact me📩
 
 ## <img src="./Img/Gmail.png" alt="Gmail image"> lucasenriquez@gmail.com <img src="./Img/Gmail.png" alt="Gmail image">
-## <img src="./Img/Linkedin.png" alt="LinkedIn image"> Lucas Anthony Gauto <img src="./Img/Linkedin.png" alt="LinkedIn image">  
+## <img src="./Img/linkedin.png" alt="LinkedIn image"> Lucas Anthony Gauto <img src="./Img/linkedin.png" alt="linkedin image">  
 ## <img src="./Img/whatsapp.png" alt="Whatsapp image"> +54 9 11 58877066 <img src="./Img/whatsapp.png" alt="Whatsapp image">
    <br/>
 
