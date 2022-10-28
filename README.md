@@ -6,8 +6,8 @@
   I am a person with a great capacity for learning, who loves to work in a team, and is always looking for new challenges and learning.<br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-anthony-gauto/) 
+## 📩Contact me📩:
+
 
 # 💻Hard Skills💻:
 
